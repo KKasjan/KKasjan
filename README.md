@@ -11,8 +11,8 @@ I'm a passionate learner focused on software quality assurance and automation. C
 * **Focus:** Manual Testing, Test Automation, Clean Code
 
 ### 🔭 Current Projects
-* **[Dino Park Calculator](https://github.com/KKasjan/python-dino-calculator):** A modular Python script for resource management and conversion in Dino Park.
-* **Smart Greenhouse (Kombajn):** *Coming Soon* - An IoT project for industrial-scale automation.
+* **[Dino Park Calculator](https://github.com/KKasjan/python-dino-calculator):** A lightweight Python tool designed to automate the calculation of resources needed to complete "Totems" in the Dino Park game. It helps players track their progress and identifies exactly how many level 1 units are missing for each dinosaur.
+* **[LoanCalculator][https://github.com/KKasjan/loan-overpayment-calculator]:** A professional, lightweight Python tool designed to simulate mortgage loan repayment schedules and calculate the exact financial benefits of overpayments, replicating complex banking mechanisms.
 
 ### 📫 How to reach me:
 * Connect with me on GitHub!
