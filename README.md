@@ -23,7 +23,7 @@ An interactive financial analytics web application designed to simulate mortgage
 * **Key Features:** Daily interest compounding (leap-year & calendar-aware), side-by-side scenario simulator (`SHORTEN_TERM` vs `REDUCE_INSTALLMENT`), interactive visual balance charts via Streamlit & Pandas.
 * **Quality Standard:** 100% test coverage with `pytest` for edge-case due dates, strict `mypy` typing, and automated linting compliance.
 
-#### 🦖 [Crazy Dino Park Resource Manager](https://github.com/KKasjan/DinoPark))
+#### 🦖 [Crazy Dino Park Resource Manager](https://github.com/KKasjan/DinoPark)
 A professional automation tool and portfolio project optimized for tracking and calculating resource progress for mobile gaming mechanics.
 * **Key Features:** Algorithmic tree structures mapping unit evolution requirements, persistent storage utilizing an SQLite data layer, and a clean automation core.
 * **Quality Standard:** Integrated automated quality gates, structural code refactoring to production standards, and clear CI/CD-ready readiness.
